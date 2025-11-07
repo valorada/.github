@@ -8,9 +8,7 @@ VALORADA[^1] is a project funded by the European Commission in the framework of 
 
 [^1]: from https://valorada-project.eu
 
-## Framework
-
-CONCEPTUAL APPROACH
+## Conceptual approach
 
 •	The effects of climate change vary considerably across regions according to distinct physical, environmental, social, cultural, and economic characteristics, resulting in different sensitivities to climate change. 
 •	Regional and local authorities produce and collect socioeconomic, demographic, and land-use data and information. These datasets and information can provide meaningful input to characterise climate risk and vulnerability at local scales. 
