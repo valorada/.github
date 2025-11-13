@@ -23,3 +23,5 @@ It presents a collection of methodologies that function as a guideline to improv
 In particular, the aim of this methodological package is: 
 a. to facilitate prioritise data needs required to support adaptation. 
 b. to reveal the climate value of local data and information.
+
+![image](../images/introduction.png)
