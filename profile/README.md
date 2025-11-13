@@ -6,6 +6,8 @@ VALORADA[^1] is a project funded by the European Commission in the framework of 
 * The demonstration of systemic transformations.
 * The improvement of access to and usability of climate data.
 
+Find out more in the [documentation](https://valorada.github.io/documentation).
+
 [^1]: from https://valorada-project.eu
 
 ## Conceptual approach
